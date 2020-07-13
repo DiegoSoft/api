@@ -1,0 +1,38 @@
+{
+    "cursos": [
+        {
+          "id": "1",
+          "titulo": "React desde cero",
+          "imagen": "https://edteam-media.s3.amazonaws.com/courses/original/f7dad9a6-e060-4305-9adf-b9a9079075de.jpg",
+          "precio": 40,
+          "profesor": "Diego teran",
+         },
+         {  "id": "2",
+             "titulo": "Python desde cero",
+         "imagen": "https://edteam-media.s3.amazonaws.com/courses/original/c708c2f9-2710-42bc-944b-bfad23b498cf.png",
+         "precio": 30,
+         "profesor": "Kratos teran",},
+      
+         {  "id": "3",
+              "titulo": "Go desde cero",
+         "imagen": "https://edteam-media.s3.amazonaws.com/courses/original/69017329-98f5-4975-9bd7-91165a45822b.png",
+         "precio": 40,
+         "profesor": "Diego teran",},
+      
+         { "id": "4",
+              "titulo": "HTML desde cero",
+         "imagen": "https://edteam-media.s3.amazonaws.com/courses/original/56580fd3-08de-42ad-ae2e-a01397f251e5.png",
+         "precio": 10,
+         "profesor": "Diego teran",},
+          ]
+
+
+
+
+
+
+
+
+
+
+}
