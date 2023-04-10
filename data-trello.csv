@@ -1,0 +1,269 @@
+"List","Title","Description","Points","Due","Members","Labels","Card #","Card URL"
+"NEWS","_","","","","","GPK,BUONA VITTA,EXCLUSIVE,BELLA,SNOWLAND,ACQUA,MUSEU,YUP FOZ,YUP RIO","1","https://trello.com/c/Wlk5R6qK"
+"NEWS","MIGRAÇÃO DO BD DO PROTHEUS DE LINUX PARA WINDOWS => PENDENTE;","ESPERAR A PASSAGEM DA ALTA TEMPORADA - SOLICITAÇÃO DO EWERSON
+
+MAQUINA QUE NINGUEM TEM USER DE LOGIN
+
+ESPAÇO EM DISK JÁ ESTA POUCO
+
+LOGIN É ROOT NA MAQUINA","","","FF","SNOWLAND","71","https://trello.com/c/6Oz3rRhf"
+"NEWS","#12955 - VM GPK-BI - UPGRADE DE MEMÓRIA","","","","FF,A","GPK","67","https://trello.com/c/Cmj122v4"
+"NEWS","PROPOSTA DE MELHORIA SISTEMA CFTV + PROPOSTA DE SUPORTE & MANUTENÇÃO","","","","LP","BUONA VITTA,SNOWLAND,ACQUA","72","https://trello.com/c/9qaivHZ4"
+"NEWS","ESPAÇO EM DISK PARA SERVER [MAGIC] TRAVEL SNOW","ASSUNTO PRECISA SER ALINHADO COM O EWERSON/LINUX
+
+REDIMENSIONAR PARTIÇÕES
+
+FALAR COM O [deleted account] PARA APOIAR","","","A,LP,FF","SNOWLAND","51","https://trello.com/c/1xknoWJl"
+"NEWS","DEFINIR SISTEMA E PROCESSO PARA MAPEAR A RELAÇÃO USUÁRIO X SOFTWARE","Em conversar com o Darlan, ele comentou uma possibilidade de melhoria que hoje faz falta é uma maneira de saber em qual sistema o usuário tem login.
+
+A sugestão dele foi de criar uma planilha e alimentar ela de acordo com a abertura de chamados para criação de acesso, dessa maneira o processo de desativação fica mais simples, uma vez que teremos conhecimento de qual sistema o usuário realmente utiliza ao invés de ter que acessar todas as aplicações procurando.
+
+‌","","","","GPK","89","https://trello.com/c/2wapAB14"
+"NEWS","WIFI+RADIUS","EFETUAR A CRIAÇÃO DA AUTENTICAÇÃO VIA RADIUS 
+NOS SITES DA GRAMADO PARKS","","","LP","GPK","60","https://trello.com/c/09OMXTh4"
+"NEWS","MIGRAR AUTENTICAÇÃO DO FILE SERVER DA YUP FOZ PARA GPK","- Desativar o AD de Foz
+- Ingressar VM no domínio da GPK
+- Criar os grupos de compartihamentos para as pastas no AD da GPK.
+- Alterar as permissões dos compartilhamentos para os grupos do AD da GPK.","","","","YUP FOZ","117","https://trello.com/c/PoWnELGH"
+"TO DO","REVOGAR ACESSOS DO GCP DO MIGUEL (EX-HUIA)","QUANDO EO SITE SNOW E ACQUA FICARAM OFFLINE
+
+O MIGUEL ACESSOU NOSSO GCP, OU SEJA, ELE TEM ACESSO DIRETO AO NOSSO AMBIENTE SEM TERMOS ESSE CONTROLE..
+
+PRECISAMOS REMOVER O CERTIFICADO DELE.","","4/7/2023","FF","GPK","106","https://trello.com/c/u76I0w8E"
+"TO DO","DESATIVAR ""ARMAZENAMENTO TEMPORÁRIO"" GPK-DC2","","","3/17/2023","FF,A,D","GPK","96","https://trello.com/c/xGk3c65g"
+"TO DO","CRONOGRAMA DE MANUTENÇÃO PREVENTIVA SERVIDORES SNOWLAND","Implantar um período para intervenções para execução de atualizações de segurança (windows update) e manutenção básica dos servidores (Verificação rápida dos logs e reinicialização da estrutura).","","","FF,A,D","SNOWLAND","62","https://trello.com/c/QEbp6MRM"
+"TO DO","FECHAR FORNECEDOR DE NOBREAKS PARA TODOS OS SITES","","","","LP","GPK","43","https://trello.com/c/2yXd1tCx"
+"TO DO","DEFINIR PROCESSO DO PAINEL M365","HOJE O PACOTE OFFICE ESTA NO PAINEL M365
+COMO IREMOS NOS POSICIONAR FRENTE QUE HOJE TEMOS GOOGLE WORKSPACE ?
+IREMOS CONTINUAR COMPRANDO LICENÇAS M365?
+TEMOS COMO REALIZAR ALGUM INTEGRAÇÃO COM NOSSO AD OU GOOGLE ?","","","LP","GPK","40","https://trello.com/c/WbWnj75T"
+"TO DO","CRIAR LOGINS PARA O TIME DO ITCS NO ZABBIX","Link de acesso ao zabbix:
+
+[https://monitoring.gramadoparks.com/](https://monitoring.gramadoparks.com/ ""‌"")","","4/14/2023","CB,FF","GPK","118","https://trello.com/c/LzeJmkaL"
+"DOING","TOPOLOGIA GRAMADO PARKS","Renovação da Topologia Gramado Parks de maneira dinâmica","","","D","TOPOLOGIA,GPK","121","https://trello.com/c/RcnqtMLe"
+"DOING","INSTALAÇÃO DO AGENTE SOPHOS","Instalação do agente Sophos nas vm’s","","","D","SOPHOS,GPK","120","https://trello.com/c/KQ7ypYRJ"
+"DOING","INSTALAÇÃO  DO  WAZUH","Instalação do software wazuh nos servidores e configuração de regras no painel de controle.","","4/14/2023","LP,D","WAZUH,GPK","110","https://trello.com/c/2HOERxGj"
+"DOING","ATUALIZAÇÃO DO AD DOS SITES.","- Definição de novas permissões.
+- Nova política de senha.
+- Novos Grupos e OUs.
+- Delegação de controle do AD de acordo com o perfil do usuário da TI.
+- Desativação de usuários de pessoas que não fazem mais parte da empresa.","","4/6/2023","CB","GPK","109","https://trello.com/c/J0u4WgrW"
+"DOING","ENCONTRAR SOLUÇÃO PARA FAILOVER DNS PARA UTILIZAÇÃO NOS SITES (PARQUES/RODAS/ESCRITÓRIO). VERIFICAR IMPACTO FINANCEIRO DA SOLUÇÃO E IMPACTO DE SERVIÇOS RECORRENTES EM CASO DE MIGRAÇÃO PARA OUTRA ESTRUTURA.","Analisar impacto da alteração da gestão DNS dos empreendimentos para o ambiente GCP.
+De imediato a retirada da gestão da Cloudflare impacta em custos anuais com certificados dos sites, mão de obra para a alteração dos certificados em todos os sites anualmente, a perda de processos de segurança (que enquadram o plano free da Cloudflare, que no GCP é pago). Creio haver mais coisas, mas de imediato não me recordo.
+","","","FF,LP,A","GPK,SNOWLAND,ACQUA,YUP FOZ,YUP RIO","80","https://trello.com/c/9whA5V78"
+"DOING","MIGRAÇÃO FILE SERVER GPK","","","3/31/2023","CB","GPK","94","https://trello.com/c/qI0A7sOh"
+"DOING","MAPEAMENTO DE NECESSIDADES PARA A MIGRAÇÃO PARA A REDE NOVA SNOWLAND / CRONOGRAMA DE MIGRAÇÃO COM TAREFAS / PONTOS DE ATENÇÃO / DADOS E MONITORAMENTO.","","","3/31/2023","FF,A","SNOWLAND","44","https://trello.com/c/5kaMBvMB"
+"DOING","SISTEMA SOM - SNOW","","","2/1/2023","FF","SNOWLAND","16","https://trello.com/c/ukVevZqg"
+"DOING","GERAR ALERTA E ENVIO DE E-MAILS DE TODOS OS DIGIFORTS DO GRUPO GRAMADO PARKS","- NO ACQUA PRECISA SER REVISTO NO FW AS REGRAS
+- NO SNOW TEM QUE CRIAR DO ZERO.
+- NA GPK PRECISA SER VISTO DO ZERO.
+
+‌","","2/28/2023","FF,RN","GPK,SNOWLAND,ACQUA","73","https://trello.com/c/xRy9PbbO"
+"DOING","CRONOGRAMA DE MANUTENÇÃO PREVENTIVA SERVIDORES ACQUAMOTION","Implantar um período para intervenções para execução de atualizações de segurança (windows update) e manutenção básica dos servidores (Verificação rápida dos logs e reinicialização da estrutura).","","","FF,A,D","ACQUA","61","https://trello.com/c/hn1JdbSj"
+"DOING","MIGRAR VM DIGITAL OCEAN -> GCP","","","","FF","GPK","38","https://trello.com/c/YbUMHimV"
+"DOING","RENOVAR DOMINIOS GRAMADO PARKS","**Renovação de domínios .COM**
+
+[gramadoaustral.com](https://click.godaddy.com/email/5sFCnklA2mYqCn60wEH1u5/?currencyId=BRL&eid=ocp.email.transactional/1705.None/None/None.link.click&marketId=pt-BR&redir=https%3A%2F%2Faccount.godaddy.com%2Frenewals%3Fshopperid%3D169092726%26amp%3Bmyatabs%3Dfalse%26amp%3Biphoneview%3D1%26isc%3Dteac170510%26utm_source%3Dgdocp%26utm_medium%3Demail%26utm_campaign%3Dpt-BR_dom_email-revenue_base_gd%26utm_content%3D230128_1705_Retention_Domain-Reg-Domain-Name-Registration_Product_Renewal_teac170510_5sFCnklA2mYqCn60wEH1u5 ""‌"")
+
+cancelamento em 17/01/2023
+
+$ 19,99 / 1 ano \*\*
+
+‌
+
+**Renovação de domínios .COM**
+
+[gramadobr.com](https://click.godaddy.com/email/2dw4xyfFi15qfG1W48GapU/?currencyId=BRL&eid=ocp.email.transactional/1705.None/None/None.link.click&marketId=pt-BR&redir=https%3A%2F%2Faccount.godaddy.com%2Frenewals%3Fshopperid%3D169092726%26amp%3Bmyatabs%3Dfalse%26amp%3Biphoneview%3D1%26isc%3Dteac170510%26utm_source%3Dgdocp%26utm_medium%3Demail%26utm_campaign%3Dpt-BR_dom_email-revenue_base_gd%26utm_content%3D230128_1705_Retention_Domain-Reg-Domain-Name-Registration_Product_Renewal_teac170510_2dw4xyfFi15qfG1W48GapU ""‌"")
+
+Cancelamento em 17/01/2023
+
+$ 19,99 / 1 ano \*\*
+
+‌
+
+**Renovação de domínios .COM**
+
+[gramadobrasilcompany.com](https://click.godaddy.com/email/6JNc8ErzintvMTLNxVnOXw/?currencyId=BRL&eid=ocp.email.transactional/1705.None/None/None.link.click&marketId=pt-BR&redir=https%3A%2F%2Faccount.godaddy.com%2Frenewals%3Fshopperid%3D169092726%26amp%3Bmyatabs%3Dfalse%26amp%3Biphoneview%3D1%26isc%3Dteac170510%26utm_source%3Dgdocp%26utm_medium%3Demail%26utm_campaign%3Dpt-BR_dom_email-revenue_base_gd%26utm_content%3D230128_1705_Retention_Domain-Reg-Domain-Name-Registration_Product_Renewal_teac170510_6JNc8ErzintvMTLNxVnOXw ""‌"")
+
+Cancelamento em 17/01/2023
+
+$ 19,99 / 1 ano \*\*","","2/28/2023","FF","GPK","86","https://trello.com/c/2FrUx6TD"
+"DOING","DESATIVAÇÃO ACESSOS SISTEMAS | MARÇO-2023 | TIME IAM","","","3/31/2023","DP","GPK","105","https://trello.com/c/3mmU058l"
+"DOING","MIGRAÇÃO DE DOMÍNIOS REGISTRADOS NA PLATAFORMA MITSU.IN PARA A PLATAFORMA GODADDY","Vão ser efetuados em etapas. Nesta primeira etapa os elencados pelo Luciano já foram migrados menos o principal gramadoparks.com pois demanda uma preparação maior na transferência.","","","FF","SNOWLAND,ACQUA,GPK","50","https://trello.com/c/ZunjlrUg"
+"DOING","LINKS DEDICADO FIBRA - RJ","ANALISAR OUTRAS EMPRESAS PARA INSTALAR LINKS VIA FIBRA EM:
+
+YUP STAR RIO
+SALA DE VENDAS YUP STAR
+SALA DE VENDAS PAINEIRAS","","","LP","YUP RIO","35","https://trello.com/c/03sxUj7T"
+"PENDING","GUARITA BUONA VITTA","Realizar a instalação de telefone na Guarita do Buona Vitta","","","A,D","BUONA VITTA","84","https://trello.com/c/ZN1NdTul"
+"PENDING","IMPLANTAÇÃO DA SALA DE SEGURANÇA PARA UTILIZAÇÃO DO SISTEMA DE CFTV;","COBRAR DO CHARLES MODELO DE CONTROLE DE ACESSO PARA COMPRAS ORÇAR","","","A","BUONA VITTA","69","https://trello.com/c/xm6oLEcM"
+"PENDING","ELENCAR CERTIFICADOS DOS SITES - EVITAR EXPIRAR","EVITAR QUE O CERTIFICADO EXPIRE E TERMOS QUE ATUAR EMERGENCIALMENTE.","","","FF","GPK,SNOWLAND,ACQUA","45","https://trello.com/c/wGzMU4e5"
+"PENDING","IMPLANTAR HOTSPOT - BELLA","","","","A","BELLA","74","https://trello.com/c/rAGkNHQh"
+"PENDING","IMPLANTAR HOTSPOT - EXCLUSIVE","","","","A","EXCLUSIVE","75","https://trello.com/c/1CQCkvtL"
+"PENDING","FORMALIZAR PROJETO CÂMERAS CANCELAS EXCLUSIVE","","","","A","EXCLUSIVE","55","https://trello.com/c/2VkrCbhb"
+"TESTING","DNS LINK INDICADORES MC/MV YUP RIO","","","1/6/2023","FF","YUP RIO","63","https://trello.com/c/0hcDu9gM"
+"TESTING","CONFIGURAR DNS GPOS - YUP RIO / YUP FOZ","","","1/16/2023","A,FF","YUP FOZ,YUP RIO","77","https://trello.com/c/twZTXtVY"
+"TESTING","VEEAM BACKUP - ATUALIZAÇÃO/POC","","","","LP,A,FF","GPK","24","https://trello.com/c/VudfDXvX"
+"TESTING","IMPLANTAÇÃO ZABBIX","","","3/10/2023","FF,CB","GPK","68","https://trello.com/c/jTWdo0uX"
+"BACKLOG","LEVANTAR DISCOS CÂMERAS","","","","","BUONA VITTA","28","https://trello.com/c/VvSFxvbo"
+"BACKLOG","NEW AD GRAMADO PARKS","","","","FF","GPK","6","https://trello.com/c/5wcodWVh"
+"BACKLOG","CONTRATO DE SUPORTE OLTS","SE NÃO QUITAR A TRILAN
+
+NÃO TEM COMO CONTRATAR OUTRO FORNECEDOR.
+
+ASSUNTO PARADO.","","","LP","BUONA VITTA","56","https://trello.com/c/GTDfpWUN"
+"DONE","Atividades 29/03 e 30/03","Atividades executadas durante o período.
+
+- Apoio em chamados de VPN
+- Montagem da VM para substituir o GPV-DW
+  - Transferência dos arquivos de banco de dados para o server novo
+  - Solicitado ao Chikasawa a instalação e configuração do SQL Server
+  - Ajuste nas permissões de acesso ao diretório dos bancos de dados.
+- Criação de usuários do Wazuh
+- Remoção do Bluestack do GBV-CONTAS
+- Suporte ao Zilmar para atualizar informações no server IIS
+- Criado o usuário yuprio.coperacoes a pedido do Leo
+- Criação de usuários no Zabbix
+- Criação de usuário da VPN Consultare","","3/30/2023","CB","GPK","119","https://trello.com/c/nuONJIg1"
+"DONE","Nova regra EDI","Acionado o suporte do EDI para configurar as regras de envio de remessa para os novos diretórios criados pelo Mauro.","","3/28/2023","A","GPK","116","https://trello.com/c/QAh8z1N3"
+"DONE","Transferências de VM","Transferência das VMs abaixo:
+
+- EDI do virt02 para virt01
+- Domínio do virt02 para virt01","","3/28/2023","A","GPK","115","https://trello.com/c/PpakVCE5"
+"DONE","Acesso Mikrotik GPK","Atualização das contas de acesso ao Mikrotik","","3/28/2023","A","GPK","114","https://trello.com/c/p0x3XvqI"
+"DONE","Falta de espaço no SNEP02","Falha nos serviços do Q-manager e Snep.","","3/28/2023","A","GPK","113","https://trello.com/c/0XdFWUiu"
+"DONE","Ativação do NAS-02","Ativar e disponibilizar para uso o NAS-02","","3/28/2023","A","GPK","112","https://trello.com/c/TQt9DWTg"
+"DONE","Grupos de Acesso Remoto aos Servidores","Remoção dos usuários com acesso direto aos servidores e avaliação da necessidade de conexão remota direto via RDP.","","3/28/2023","CB","GPK","108","https://trello.com/c/FFTAmRNE"
+"DONE","Atualização acesso de Administradores nos Servidores.","Alteração das senhas de administradores locais dos servidores de todos os sites.","","3/28/2023","CB","GPK","107","https://trello.com/c/G1C6IoVk"
+"DONE","REMOVER A PUBLICAÇÃO DA WIKI GRAMADO PARKS PARA INTERNET","","","3/31/2023","FF","GPK","99","https://trello.com/c/t2PaDQCP"
+"DONE","ATUALIZAR FIREWALL BELLA - EXCLUSIVE","","","3/23/2023","LP","EXCLUSIVE,BELLA","101","https://trello.com/c/5GafGlIJ"
+"DONE","ATUALIZAR FIREWALL ACQUAMOTION","","","3/20/2023","LP","ACQUA","100","https://trello.com/c/xnNm5Ckb"
+"DONE","ATUALIZAR FIREWALL RIO MAR","![image.png](https://trello.com/1/cards/641dd34490a5a2abb22805e2/attachments/641dd52e5b00761d3ae97bf0/download/image.png)","","3/29/2023","LP","GPK","104","https://trello.com/c/BhPlUIFV"
+"DONE","ATUALIZAR FIREWALL PORTO GALINHAS","","","3/29/2023","LP","GPK","103","https://trello.com/c/P6i3Lz6c"
+"DONE","ATUALIZAR FIREWALL SNOWLAND","![image.png](https://trello.com/1/cards/641dd33737cdc5c7eebab6ee/attachments/641dd4106d0ae4e9851c6111/download/image.png)","","3/28/2023","LP","SNOWLAND","102","https://trello.com/c/D8PfzPDn"
+"DONE","DIGITAL OCEAN - #9003","","","10/3/2022","FF","GPK","34","https://trello.com/c/3MXGw4bG"
+"DONE","MAX PROTECNTION - SNOW","","","10/18/2022","LP,FF,A","SNOWLAND","12","https://trello.com/c/lbBI9r9d"
+"DONE","FIREWALL - RAIDBR","","","11/16/2022","LP","GPK","10","https://trello.com/c/cb1qUwSn"
+"DONE","LICENÇAS SOPHOS <- ESET SNOW","","","12/28/2022","LP","SNOWLAND,GPK","29","https://trello.com/c/pPeIBeQZ"
+"DONE","ASC - WHATSAPP","- CHAMAR PARA UMA CONVERSA
+- REVER TODOS OS CONTRATOS
+- UNIFICAR SOLUÇÃO 
+- SOLUÇÃO DE ATIVO - WHATS APP","","1/16/2023","","GPK","14","https://trello.com/c/Dx4LXZmw"
+"DONE","ACESSO AOS RELOGIO PONTO - #12917","[https://itcsgpk.zendesk.com/agent/tickets/12917](https://itcsgpk.zendesk.com/agent/tickets/12917 ""‌"")","","1/18/2023","A","GPK","59","https://trello.com/c/ag5KqZLv"
+"DONE","ONBOARDING DO DIEGO","","","1/26/2023","LP","GPK","82","https://trello.com/c/N2zsZAYc"
+"DONE","DEPLOY EASY INVENTORY","VAMOS PRECISAR UNIR FORÇAR PARA TERMOS O EASY INVENTORY DEPLOYADO EM TUDO ATÉ 30/11/2022","","2/2/2023","FF,A,LP","GPK,SNOWLAND,ACQUA","30","https://trello.com/c/DD8ol7Mb"
+"DONE","INVENTÁRIO IMPRESSORAS SELBETTI","EFETUAR LEVANTAMENTO COM INFORMAÇÕES CORRETAS DO LOCAL DE INSTALAÇÃO, EMPREENDIMENTO, IP , ENDEREÇO
+
+[https://docs.google.com/spreadsheets/d/1OCgTjdNHSLCpVoe6DBhkxkgPDigTHVluCTQKsQ1u4fc/edit#gid=1740031567](https://docs.google.com/spreadsheets/d/1OCgTjdNHSLCpVoe6DBhkxkgPDigTHVluCTQKsQ1u4fc/edit#gid=1740031567 ""smartCard-inline"")
+
+‌","","2/3/2023","LP","GPK","81","https://trello.com/c/6FcjnlwU"
+"DONE","ON BOARDING DO CRISTIANO.BERNARDINO","","","2/7/2023","LP,CB","GPK","88","https://trello.com/c/FrodI9ym"
+"DONE","CORREÇÃO DA FALHA DO LINK DA SEBRATEL NO SNOWLAND","Na alta temporada ocorreu uma falha no link de internet da Sebratel (via rádio). A visada da antena foi interrompida devido à árvores.
+Como este é o terceiro link, optou-se por executar a alteração do posicionamento da antena após a alta temporada. 
+O procedimento foi agendado para o dia 01/02, onde foram executados os trabalhos de alteração da posição da antena, e início do processo de configuração, porém não foi possível o término.","","2/10/2023","FF,LP,D,A","SNOWLAND","87","https://trello.com/c/ks3SBjOV"
+"DONE","EFETUAR RESERVA DE IP http://10.100.1.193/ IMPRESSORA ACQUAMOTION","","","2/15/2023","D,CB,FF","ACQUA","93","https://trello.com/c/UogAxALp"
+"DONE","REALIZAR ATIVAÇÃO WINDOWS SERVERS","","","","A","GPK,SNOWLAND,ACQUA","46","https://trello.com/c/YpbezLkB"
+"DONE","AVALIAR REGRAS DE FW DE ACESSO PARA O AMBIENTE DIGITALOCEAN / NENHUMA MÁQUINA TEM (TINHA) REGRA ALGUMA DE SEGURANÇA DE FW.","A única maquina que possui regras agora é a glpi.admpessoal.gramadoparks.com","","","FF","GPK","36","https://trello.com/c/jOvjpCuy"
+"DONE","RETRO FIT - SNOWLAND","","","","FF","SNOWLAND","26","https://trello.com/c/8sI5PdI8"
+"DONE","NOVOS PONTOS DE REDE SALA DE RESERVAS","","","","A","GPK","58","https://trello.com/c/r0rBJG2G"
+"DONE","DOWNLOAD BOLETOS FELICIANO","","","","","GPK","57","https://trello.com/c/uIBFteX5"
+"DONE","PASSAGEM CABO DE REDE / LOJA AREA DA NEVE","PEDIDO DO CHRISTIAN
+
+FINALIZANDO NOVA LOJA NA AREA DE NEVE
+FALTA CABO DE REDE 
+LEVAR PARA DENTRO DA LOJA NOVA 
+01/11 INGAURAÇAÕ LOJA","","","LP","SNOWLAND","49","https://trello.com/c/won6nqHM"
+"DONE","MIGRAR GLPI RH","","","","FF","GPK","47","https://trello.com/c/PIUeqqIA"
+"DONE","REDE WIFI - YUP FOZ","AVALIANDO FORNECEDORES PARA MELHORIA DO SINAL DE WIFI NA 
+YUP STAR FOZ
+
+ARUBA? -> POWERNET
+RUCKUS? -> MAXPROTECTION","","","LP","YUP FOZ","37","https://trello.com/c/fvP08ttb"
+"DONE","HD CÂMERAS BUONA VITTA","- SC 20223","","","","BUONA VITTA","27","https://trello.com/c/pMSK0vpp"
+"DONE","NOVA XS - SERVIDOR INTERNO","Quais são os passos para liberarmos o token:
+1. Precisa resolver o problema que o Servidor Interno do Travel não integra com o servidor do Multiclubes nem com servidor Externo do Travel. Nossa equipe juntamente com o Fernando identificou que o problema é de DNS.","","","FF","SNOWLAND","25","https://trello.com/c/nZyJMkwb"
+"DONE","SISTEMA DE TV VEGGA IT ( BUONA )","","","","FF,A","BUONA VITTA","23","https://trello.com/c/G0Dzwk8f"
+"DONE","REVISÃO NOBREAKS ACQUAMOTION / ORGANIZAÇAÕ RACK","","","","FF","ACQUA","22","https://trello.com/c/ZLBLbcHh"
+"DONE","ANTENA GRUTA - SNOW","","","","FF","SNOWLAND","21","https://trello.com/c/XEehRa8Z"
+"DONE","SIMULADOR - SNOW","","","","FF","SNOWLAND","17","https://trello.com/c/niwlnmTr"
+"DONE","DESTRATO CONTRATO SMART WAVE","","","","LP","SNOWLAND","13","https://trello.com/c/bOTLkCU6"
+"DONE","MAX PROTECTION - ANTERNAS GPK","","","","LP","GPK","11","https://trello.com/c/6nks8C2Y"
+"DONE","MAX PROTECTION - ACQUA","","","","LP","ACQUA","9","https://trello.com/c/4Trvb9W8"
+"DONE","ZABBIX","","","","","SNOWLAND","7","https://trello.com/c/7kQZbCgI"
+"DONE","TROCA ANTENAS SNOW","","","","FF","SNOWLAND","5","https://trello.com/c/fTrCW9Wh"
+"DONE","POSTE SNOW","","","","FF","SNOWLAND","4","https://trello.com/c/pwUz4UT3"
+"DONE","LEVANTAMENTO CONECTIVIDADE DE OPERAÇÕES (luciano)","","","","A","GPK","3","https://trello.com/c/ZaHtewtR"
+"DONE","MELHORIA SISTEMA DE CÂMERAS BUONA VITTA","Realizar melhorias sinalizadas por Charles Lemos, Adriano Dreher e Rafael Nascimento, Projeto Aprovado por Ana Alles","","2/27/2023","A,D,RN","BUONA VITTA","83","https://trello.com/c/TU62Ofkz"
+"DONE","CRIA PORTA BRIDGE NO ROUTER OPERADORA","SOLICITAR AS OPERADORAS DISPONIBILIZAR 2 PORTAS PARA UTILIZAÇÃO DO LINK DE INTERNET NO ROUTER.
+
+ISTO É DECORRENTE DE TERMOS 2 FW EM HA. 
+SENDO ASSIM CADA PORTA DO LINK DO MODEM SERÁ CONECTADA EM CADA FW","","3/24/2023","LP,A","EXCLUSIVE,BUONA VITTA,BELLA,YUP FOZ,ACQUA","64","https://trello.com/c/GJftB69y"
+"DONE","MIGRAR LINK TCA SNOW -> ACQUA","","","3/21/2023","FF","SNOWLAND,ACQUA","76","https://trello.com/c/c3UlQkxK"
+"DONE","FORMATAR E PREPARAR ANTIGO SERVIDOR GPK-SP","EQUPAMENTO
+
+Servidor - HP DL360 G7 - N.série BRC0811DB8 - 2 CPU Xeon X5670 2,93GHz - 16GB RAM - 1TB - Win 2016 Essentials","","3/24/2023","CB,D","GPK","95","https://trello.com/c/sI3NeAhC"
+"DONE","INSTALAÇÃO DO SEGUNDO PLAYER  2N IP DE BACKUP","CHAMADOS RELACIONADOS:
+
+[https://itcsgpk.zendesk.com/agent/tickets/6170](https://itcsgpk.zendesk.com/agent/tickets/6170 ""‌"")
+
+[https://itcsgpk.zendesk.com/agent/tickets/10615](https://itcsgpk.zendesk.com/agent/tickets/10615 ""‌"")","","3/1/2023","FF","SNOWLAND","70","https://trello.com/c/w7NzE65Q"
+"DONE","PAINEL MAX ANALYSER + SIEM + SOC","","","3/24/2023","LP","GPK","52","https://trello.com/c/O1a1RIUS"
+"DONE","Formatação Servidor HPE","Formatação do Servior HPE para ser usado pela empresa de backup.","","3/28/2023","A","GPK","111","https://trello.com/c/rYEzAJbW"
+"DONE","RETOMAR A AUTENTIÇÃO DE INTERNET NA REDE SNOWLAND ADM","APÓS TROCA DO FW PRECISA SER REVISTO COMO A AUTENTICAÇÃO IRÁ OCORRER
+
+VIA AD?
+
+ATUALMENTE A INTERNET ESTA LIBERADA FULL PARA TODO E QUALQUER SITE.","","3/29/2023","LP,FF","SNOWLAND","79","https://trello.com/c/Rqi2rmpw"
+"DONE","DESATIVAR SSID REDE ""OPERACIONAL"" DO SNOW","CONCLUIR AUTENTICAÇÃO DISPOSITIVOS FW SNOW
+
+AJUSTAR A QUESTÃO DA RESERVA DE MAC NO ANTIGO SONIC WALL
+
+ALTERAR PARA OPÇÃO DO CAPTIVE PORTAL JÁ EXISTENTE NO SNOW??
+
+LGPD?
+
+[https://docs.google.com/document/d/1yZbiVbFAOXr-sFYpLT-F2Jy2Qs7SP87NWfV_4Bzmsdk/edit](https://docs.google.com/document/d/1yZbiVbFAOXr-sFYpLT-F2Jy2Qs7SP87NWfV_4Bzmsdk/edit ""smartCard-inline"")","","3/29/2023","LP,FF","SNOWLAND","48","https://trello.com/c/CJbjYyju"
+"NO GO","AVALIAR MIGRAÇÃO PASSBOLT PARA GCP","DISCO SEM CRYPTOGRAFIA
+
+ESTA RODANDO DENTRO DE CASA
+
+LEVAR PARA FORA PARA TER MAIS SEGURANÇA.","","","RN","GPK","78","https://trello.com/c/m2Se0jQB"
+"NO GO","WIFI/GPK-ADM SALA CPD BUONA VITTA","","","","LP","BUONA VITTA","54","https://trello.com/c/2SE9sb4A"
+"NO GO","DASHBOARD - ATIVIDADE EM SISTEMAS","**De:** Luciano Moizio | Gramado Parks <[luciano.moizio@gramadoparks.com](mailto:luciano.moizio@gramadoparks.com ""‌"")\>
+**Enviada em:** sexta-feira, 9 de dezembro de 2022 10:37
+
+[@Rafael Fiss | Gramado Parks](mailto:rafael.fiss@gramadoparks.com ""‌"")  e [@Marcos Chikasawa | Gramado Parks](mailto:marcos.chikasawa@gramadoparks.com ""‌"")
+
+‌
+
+Preciso que vocês **trabalhem em conjunto** na seguinte demanda. Quero um dashboard especifico de logon em sistemas
+
+‌
+
+Pegaremos o Sienge como exemplo.
+
+- quantidade de contas ativas
+- quantidade de contas ativas que não logam a 15 dias
+- quatidade de usuários logados
+- top usuários no sistema (tempo de atividade)
+- usuários desativados
+- etc etc etc
+
+‌
+
+Podem pensar em indicadores que nos deem visibilidade do uso do sistema, bem como o olhar de segurança..
+
+Escopo dos sistemas (Sienge, GTC, Protheus) neste momento.
+
+Usem os times de sistemas, contatos com fornecedores, etc para chegarem no dado que precisam
+
+Quando tiverem um protótipo para mostrarem ... validamos ..
+
+Qualquer duvida me procurem..","","3/30/2023","LP,RN,RF,MC","GPK","97","https://trello.com/c/wmyphpYe"
+"NO GO","HOSPEDAGEM ANTIGA SNOW","","","1/31/2023","FF,LP","SNOWLAND","66","https://trello.com/c/HuGPCyZp"
+"NO GO","PROJETO SELBETTI /  SATELITTI","- PRECISA SER REVISTO TODO OS CADASTROS DAS IMPRESSORAS DA GRAMADO PARKS.
+- FAZER UM CRUZAMENTO DE LOCAIS [CNPJ] X QTD
+- ELENCAR OS ENDEREÇOS CORRETOS
+- AVALIAR O DEPLOY DA FERRAMENTA SATELITTI NOS SITES","","","","GPK,YUP FOZ,SNOWLAND,ACQUA,YUP RIO","39","https://trello.com/c/dNYHrhHV"
+"NO GO","MIX HOUSE - SNOW","","","","FF","SNOWLAND","18","https://trello.com/c/9evadnXv"
+"NO GO","REALIZAR ORGANIZAÇÃO RACK GPK / ADEQUAÇÃO ELÉTRICA RACK GPK","","","","","GPK","41","https://trello.com/c/zmUd4Z8S"
